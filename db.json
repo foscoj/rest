@@ -1,21 +1,21 @@
 {
-    "erfasser": "<ID>-<Name>",
+    "erfasser": "773-Jonas",
     "planeten": [
         {
-            "galaxie": <galaxie>,
-            "system": <system>,
-            "planet": <planet>,
-            "allianz": "<allianz>",
-            "spieler": "<spieler>",
-            "punkte": <punkte>
+            "galaxie": 1,
+            "system": 1,
+            "planet": 1,
+            "allianz": "[ALLY]",
+            "spieler": "Spieler",
+            "punkte": 4711
         },
         {
-            "galaxie": <galaxie>,
-            "system": <system>,
-            "planet": <planet>,
-            "allianz": "<allianz>",
-            "spieler": "<spieler>",
-            "punkte": <punkte>
+            "galaxie": 7,
+            "system": 99,
+            "planet": 9,
+            "allianz": "[ALL]",
+            "spieler": "Spieler2",
+            "punkte": 99
         }
     ]
 }
