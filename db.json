@@ -1,0 +1,21 @@
+{
+    "erfasser": "<ID>-<Name>",
+    "planeten": [
+        {
+            "galaxie": <galaxie>,
+            "system": <system>,
+            "planet": <planet>,
+            "allianz": "<allianz>",
+            "spieler": "<spieler>",
+            "punkte": <punkte>
+        },
+        {
+            "galaxie": <galaxie>,
+            "system": <system>,
+            "planet": <planet>,
+            "allianz": "<allianz>",
+            "spieler": "<spieler>",
+            "punkte": <punkte>
+        }
+    ]
+}
