@@ -1,5 +1,4 @@
 {
-    "erfasser": "773-Jonas",
     "planeten": [
         {
             "galaxie": 1,
@@ -17,5 +16,6 @@
             "spieler": "Spieler2",
             "punkte": 99
         }
-    ]
+    ],
+    "erfasser": "773-Jonas"
 }
